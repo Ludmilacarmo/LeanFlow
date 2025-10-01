@@ -41,10 +41,10 @@ O Projeto tem como objetivo desenvolver uma plataforma de Business Intelligence 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------| 
 |Kick Off| 12/09/2025 | Concluído | | 
-|01| 02/10/2025 | A Fazer |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relatorio1.pdf) | 
-|02|  23/10/2025| A Fazer |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relat%C3%B3rio%20sprint%202.pdf) | 
-|03| 13/11/2025 | A Fazer |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/relatorio%20sprint%203.pdf) | 
-|Feira de Soluções|04/12/2025 | A Fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|01| 02/10/2025 | A Fazer |[MVP](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relatorio1.pdf) | 
+|02|  23/10/2025| A Fazer |[MVP]() | 
+|03| 13/11/2025 | A Fazer |[MVP]() | 
+|Feira de Soluções|04/12/2025 | A Fazer |[MVP]() | 
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontra as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual Sprint cada atividade pertence.
