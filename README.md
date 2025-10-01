@@ -73,6 +73,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | 6    | Média      | As an analyst, I want to view a ranking of port efficiency.                                         |        |
 | 7    | Média      | As a user, I want to view the most/least efficient ports on a map.                                  |        |
 | 8    | Baixa      | As a manager, I want to view the reasons and duration of stoppages.                                 |        |
+| 9    | Baixa      | As a manager, I want to track the evolution over 10 years.                                          |        |
+| 10   | Baixa      | As a manager, I want to analyze possible trends and forecasts.                                      |        |
+| 11   | Baixa      | As a user, I want to filter data by port and year.                                                  |        |
 
 
 
