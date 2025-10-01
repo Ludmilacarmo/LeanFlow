@@ -54,7 +54,7 @@ Sprint | Previsão | Status| Histórico|
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontra as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual Sprint cada atividade pertence.
 
-#### Cronograma das Sprint [(clique aqui)](https://github.com/users/Talesfn1/projects/2)
+#### Cronograma das Sprint [(clique aqui)](https://github.com/users/Ludmilacarmo/projects/8)
 
 # Backlog
   
