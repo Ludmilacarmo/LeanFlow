@@ -30,13 +30,17 @@ Aeroporto de São José dos Campos com base de dados de importações e exporta�
 
 # Objetivo do Projeto
 O Projeto tem como objetivo criar interfaces que permitam a visualização de cargas que tenham potencial para exportação pelo aeroporto de SJK.
-## Tecnologias Utilizadas
 
- ### Tecnologias Específicas/Apoio
- > GitHub
-  > Jira Software
-> Power BI
-> Slack
+ ## Tecnologias Utilizadas
+
+* Jira Software
+* Power BI
+* Microsoft Excel
+* Slack
+* Python (Colab)
+* Mysql
+
+
 # Sprints
 
 Sprint | Previsão | Status| Histórico|
@@ -45,7 +49,6 @@ Sprint | Previsão | Status| Histórico|
 |01| 02/10/2025 | A Fazer |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relatorio1.pdf) | 
 |02|  23/10/2025| A Fazer |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relat%C3%B3rio%20sprint%202.pdf) | 
 |03| 13/11/2025 | A Fazer |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/relatorio%20sprint%203.pdf) | 
-|04| 00/00/2025 | A Fazer |[Ver Relatório](https://github.com/Talesfn1/Projeto_API/blob/main/Relatorios/Relat%C3%B3rio%204.pdf)  | 
 |Feira de Soluções|04/12/2025 | A Fazer |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 ## Cronograma
