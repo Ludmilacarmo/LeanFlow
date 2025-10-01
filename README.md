@@ -27,9 +27,8 @@ Aeroporto de São José dos Campos com base de dados de importações e exporta�
 
 
 # Objetivo do Projeto
-O Projeto tem como objetivo criar interfaces que permitam a visualização de cargas que tenham potencial para exportação pelo aeroporto de SJK.
+O Projeto tem como objetivo desenvolver uma plataforma de Business Intelligence (BI) direcionada à análise da eficiência dos portos brasileiros. A iniciativa visa avaliar e comparar a produtividade dos terminais portuários, considerando a infraestrutura instalada e o volume de cargas movimentado. Adicionalmente, o projeto propõe-se a disponibilizar informações acerca dos tempos de processamento das operações portuárias, a partir de dados fornecidos pela ANTAQ, possibilitando a identificação de gargalos operacionais, a análise das principais causas de paralisações e a verificação de possíveis correlações sazonais ao longo do ano.
 
- ## Tecnologias Utilizadas
 
 * Jira Software
 * Power BI
