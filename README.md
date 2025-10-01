@@ -7,7 +7,6 @@
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
 * [Backlog](#Backlog)
-* [Priorização](#Priorização)
 * [Apresentação das Sprints](#Apresentação-das-sprints)
 * [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
