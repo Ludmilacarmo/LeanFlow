@@ -6,7 +6,7 @@
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
-* [Backlog da Sprints](#Backlog-das-Sprints)
+* [Backlog](#Backlog)
 * [Priorização](#Priorização)
 * [Apresentação das Sprints](#Apresentação-das-sprints)
 * [Burndown](#Burndown)
@@ -56,20 +56,21 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 #### Cronograma das Sprint [(clique aqui)](https://github.com/users/Talesfn1/projects/2)
 
-# Backlog das Sprints
+# Backlog
   
 <div align="center">
     
-![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Attback3.png)
-# Priorização
-## Sprint 1
-![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/BacklogP1.png)
-## Sprint 2
-![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Sprint2.png)
-## Sprint 3
-![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/3sprint.png)
-## Sprint 4
-![product backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/sprint4.png)
+# Product Backlog
+
+| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
+| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
+| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
+| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
+| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+
+
 </div>
 
 # Burndown
