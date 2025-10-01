@@ -1,5 +1,4 @@
-# LeanFlow
-# Projeto Integrador (API)
+# LeanFlow - Projeto Integrador (API)
 # Índice
 
 * [Projeto](#projeto-API)
@@ -133,10 +132,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| GitHub | ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gestão de Projetos | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Scrum Master | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Prodct Owner | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
  
 </details>
 
@@ -146,9 +145,9 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Colaboração | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Adaptabilidade | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
+| Resiliência | ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ |
