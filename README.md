@@ -62,13 +62,19 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
     
 # Product Backlog
 
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+
+| Rank | Prioridade | User Story                                                                                          
+|------|------------|----------------------------------------------------------------------------------------------------
+| 1    | Alta       | As an analyst, I want to create a database to facilitate the team's access to the data.             
+| 2    | Alta       | As an analyst, I want to import ANTAQ's raw data into the database to start the analysis.           |        |
+| 3    | Alta       | As an analyst, I want to clean, process, and standardize inconsistent data.                         |        |
+| 4    | Média      | As a manager, I want to calculate port efficiency using DEA CCR.                                    |        |
+| 5    | Média      | As a manager, I want to calculate port efficiency using DEA BCC.                                    |        |
+| 6    | Média      | As an analyst, I want to view a ranking of port efficiency.                                         |        |
+| 7    | Média      | As a user, I want to view the most/least efficient ports on a map.                                  |        |
+| 8    | Baixa      | As a manager, I want to view the reasons and duration of stoppages.                                 |        |
+
+
 
 
 </div>
