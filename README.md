@@ -8,7 +8,7 @@
 * [Sprints](#Sprints)
 * [Backlog](#Backlog)
 * [Apresentação das Sprints](#Apresentação-das-sprints)
-* [Burndown](#Burndown)
+* [Backlog por sprint](#Backlog-por-sprint)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 
 
@@ -81,37 +81,43 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 </div>
 
-# Burndown
-### Sprint 1
-![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown.png)
-### Sprint 2
-![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown%232.png)
-### Sprint 3
-![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown3.png)
-### Sprint 4
-![sprint backlog](https://github.com/Talesfn1/Projeto_API/blob/main/BackLogIMG/Burndown4.png)
+# Backlog por sprint
+## Sprint 1
+| Atividades                                                                 |
+|----------------------------------------------------------------------------|
+| Load ANTAQ tables into the system                                          |
+| Create Project Database                                                    |
+| Handle inconsistent data (port names, dates, nulls, etc.) and standardization |
+
+---
+
+## Sprint 2
+| Atividades                                                                 |
+|----------------------------------------------------------------------------|
+| Implement CCR model to measure efficiency                                  |
+| Implement BCC model to measure efficiency                                  |
+| Display port ranking on the dashboard                                      |
+
+---
+
+## Sprint 3
+| Atividades                                                                 |
+|----------------------------------------------------------------------------|
+| Identify causes and downtime duration                                      |
+| Show evolution over 10 years                                               |
+| Analyze possible trends and forecasts                                      |
+| Create final dashboard with filters by year/port                           |
+
+---
+
+## Solutions Expo (Final)
+| Atividades                                                                 |
+|----------------------------------------------------------------------------|
+| Post-finalization adjustments
+
   
-## Sprint 1. 
-- [x] Criação do GitHub de cada membro;
-- [x] Estruturação do Repositório do projeto;
-- [x] Estruturação do JiraSoftware;
-- [x] Pesquisas para estruturação do projeto;
-- [x] Preenchimento do Jira e GitHub;
-- [x] Documentação em relatorio da Sprint 1;
-- [x] Revisão e finalização.
-## Sprint 2. 
-- [x] Conversão dos dados no Power BI ;
-- [x] Identificar principais produtos exportados na RM Vale;
-- [x] Criação do Dashboard com evolução mensal por valor/peso das exportações;
-- [x] Documentação em relatório sobre todo o progresso na 2ª Sprint;
-## Sprint 3. 
-- [x] Implementação no Dashboard de filtros por município da RM vale, por carga, por volume e por valor FOB;
-- [x] Pesquisar quais cargas poderiam ser transportadas por aeroporto.;
-- [x] Documentação em relatório sobre todo o progresso na 3ª Sprint e Atualização do GitHub;
-## Sprint 4. 
-- [x] Atualizar, revisar, corrigir, e implementar novas funções e análises de acordo com a necessidade;
-- [x] Atualizar pesquisas, GitHub e jira;
-- [x] Documentação em relatório sobre todo o progresso na 4ª Sprint e Atualização do GitHub;
+
+
 
 # Apresentação das Sprints
 #### Apresentação da Sprint 1 [(clique aqui)](https://github.com/Talesfn1/Projeto_API/blob/main/Projeto%20-%20API%20Slide%201.pdf)
