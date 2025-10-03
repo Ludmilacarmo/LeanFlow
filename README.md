@@ -41,7 +41,7 @@ O Projeto tem como objetivo desenvolver uma plataforma de Business Intelligence 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------| 
 |Kick Off| 12/09/2025 | Concluído | | 
-|01| 02/10/2025 | A Fazer |[MVP](https://github.com/Ludmilacarmo/LeanFlow/blob/main/MVP/MVP1.md) | 
+|01| 02/10/2025 | A Fazer |[MVP]() | 
 |02|  23/10/2025| A Fazer |[MVP]() | 
 |03| 13/11/2025 | A Fazer |[MVP]() | 
 |Feira de Soluções|04/12/2025 | A Fazer |[MVP]() | 
