@@ -89,7 +89,7 @@ Desenvolver um sistema para **medir e visualizar eficiência portuária**, ident
 ## 🛑 Sprint 3 – Paradas Operacionais e Gargalos
 
 📊 Dashboard:  
-![Paradas e Operações](imagens/dashboard_paradas_operacoes.png)
+![Paradas e Operações](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/paradas.jpeg)
 
 Insights:
 
