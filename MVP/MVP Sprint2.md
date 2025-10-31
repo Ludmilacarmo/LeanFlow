@@ -1,124 +1,133 @@
-# 🚀 Visão Geral
-O projeto **Lean Flow** tem como objetivo criar uma plataforma de **Business Intelligence (BI)** voltada à **análise da eficiência portuária** no Brasil.  
-O sistema utiliza dados públicos da **ANTAQ** e aplica os modelos **DEA (CCR e BCC)** para avaliar e comparar o desempenho dos complexos portuários, permitindo que gestores e analistas tomem decisões baseadas em evidências.  
+# 📊 Lean Flow – Smart Solutions for Logistics Challenges
+
+🚀 Plataforma de Business Intelligence (BI) para análise e monitoramento da eficiência portuária no Brasil, utilizando dados da ANTAQ e modelos DEA (CCR e BCC).
 
 ---
 
 ## 🎯 Objetivo do MVP
-> Desenvolver uma plataforma de BI para mensurar e visualizar a eficiência dos portos brasileiros, destacando gargalos operacionais e oportunidades de melhoria.
 
-- **Problema resolvido:** Falta de dados consolidados e comparativos sobre eficiência operacional portuária.  
-- **Hipótese validada:** É possível usar dados da ANTAQ e modelos DEA (CCR e BCC) para medir eficiência de forma objetiva.  
-- **Valor entregue:** Apoio a gestores e analistas na tomada de decisão com base em indicadores de produtividade, movimentação de cargas e tempo de operação.  
+Desenvolver um sistema para **medir e visualizar eficiência portuária**, identificando gargalos e apoiando a tomada de decisão em logística.
+
+| Item | Detalhe |
+|------|--------|
+| 🎯 Problema | Falta de dados consolidados e comparativos sobre eficiência portuária |
+| ✅ Hipótese Validada | DEA aplicado à ANTAQ permite medir eficiência objetivamente |
+| 💡 Valor Entregue | Indicadores de produtividade, movimentação e operações |
 
 ---
 
 ## 🧩 Estrutura do MVP
-- Banco de dados centralizado com dados da ANTAQ.  
-- Tratamento e padronização de dados inconsistentes.  
-- Aplicação dos modelos DEA (CCR e BCC).  
-- Dashboards com visualização de eficiência e movimentação portuária.  
+
+- Extração de dados públicos (ANTAQ)
+- Tratamento e padronização dos dados
+- Implementação dos Modelos DEA (CCR e BCC)
+- Dashboards interativos com eficiência e movimentação
 
 ---
 
-## 📅 Sprint 2 – **Modelos DEA e Dashboards de Eficiência Portuária**
+## 📅 Sprint 2 – Modelos DEA e Dashboards
 
-### 🎯 Objetivo da Sprint
-Implementar os **modelos de eficiência DEA (CCR e BCC)** e desenvolver **dashboards interativos** para análise e comparação dos complexos portuários.
+### 🔧 Entregas
 
-### 🔧 Entregas Principais
-| Entrega | Descrição | Status |
-|----------|------------|--------|
-| DEA CCR e BCC | Implementação dos modelos para cálculo de eficiência | ✅ Concluído |
-| Ranking de Eficiência | Classificação dos portos com base nos resultados DEA | ✅ Concluído |
-| Visualização Gráfica | Criação de dashboards comparativos (CCR x BCC) | ✅ Concluído |
-| Análise de Movimentação | Integração de dados sobre soja, berços e operações | ✅ Concluído |
-
----
-
-## 📈 Resultados da Sprint 2
-
-### ⚙️ Modelos DEA – Eficiência Portuária
-O cálculo de eficiência foi feito com base nos modelos **CCR (Retornos Constantes de Escala)** e **BCC (Retornos Variáveis de Escala)**.  
-Os resultados destacam os portos com desempenho máximo (eficiência = 1,00) e aqueles com oportunidades de melhoria.  
-
-**📊 Comparativo CCR x BCC:**
-
-![Eficiência Portuária - Modelos DEA](imagens/dashboard_eficiencia_portuaria.png)
-
-**Principais Insights:**
-- Portos como **Itaqui, Manaus, Paranaguá-Antonina e Santarém** atingiram eficiência total nos dois modelos.  
-- **Santos** e **São Francisco do Sul** melhoraram no modelo BCC, indicando ganho de eficiência sob retornos variáveis.  
-- **Vitória** e **Aratu-Salvador** apresentaram menor eficiência, sugerindo restrições operacionais.  
+| Entrega | Status |
+|--------|:-----:|
+| Modelo DEA CCR | ✅ |
+| Modelo DEA BCC | ✅ |
+| Ranking de Eficiência | ✅ |
+| Dashboard CCR x BCC | ✅ |
+| Integração com dados de soja, berços e operações | ✅ |
 
 ---
 
-### ⚓ Análise de Movimentação de Soja e Estrutura Portuária
+## 📈 Resultados Sprint 2
 
-A segunda parte da sprint integrou os dados de **movimentação de soja**, **número de berços** e **operações portuárias** para compor indicadores complementares de produtividade.  
+### ⚙️ Modelo BCC – Eficiência dos Portos de Atracação
 
+> Permite análise sob retornos variáveis de escala.
+
+📊 Gráfico DEA BCC:  
+![Eficiência BCC](imagens/dashboard_bcc.png)
+
+---
+
+### ⚙️ Modelo CCR – Eficiência dos Portos de Atracação
+
+> Avalia produtividade sob retornos constantes de escala.
+
+📊 Gráfico DEA CCR:  
+![Eficiência CCR](imagens/dashboard_ccr.png)
+
+---
+
+### 🎯 Insights Gerais
+
+- Poucos portos atingiram eficiência total em **CCR**
+- Diferenças entre CCR e BCC mostram **efeito de escala**
+- Portos eficientes no BCC mas não no CCR → **boa gestão, infraestrutura limitada**
+
+---
+
+## ⚓ Movimentação de Soja e Estrutura Portuária
+
+📊 Dashboard:  
 ![Dashboard Soja e Operações](imagens/dashboard_soja_operacoes.png)
 
-**Principais Indicadores:**
-- **344** berços totais nos complexos analisados.  
-- **406 mil** operações de soja registradas.  
-- **948 bilhões de toneladas** movimentadas no período.  
+🔍 Destaques:
 
-**Destaques:**
-- **Santos** é o porto com maior número de berços (76) e o maior volume de soja movimentado (295 Bi).  
-- **Manaus** lidera em número de operações de soja (96 mil).  
-- **Itaqui** e **Santarém** apresentam alto nível de eficiência mesmo com menor número de berços, mostrando boa gestão de recursos.  
-
----
-
-## 🔑 User Stories Relacionadas à Sprint 2
-| ID | User Story | Status |
-|----|-------------|--------|
-| US4 | Como gestor, quero calcular a eficiência portuária usando DEA CCR. | ✅ Concluído |
-| US5 | Como gestor, quero calcular a eficiência portuária usando DEA BCC. | ✅ Concluído |
-| US6 | Como analista, quero visualizar um ranking de eficiência dos portos. | ✅ Concluído |
-| US7 | Como usuário, quero visualizar os portos mais/menos eficientes em um mapa. | ⚙️ Em implementação |
+- **344** berços no total
+- **406 mil** operações registradas
+- **948 bilhões de toneladas** movimentadas
+- **Santos** lidera movimentação e berços
+- **Manaus** lidera operações
+- **Itaqui** e **Santarém** mostram alta eficiência mesmo com estrutura menor
 
 ---
 
-## 📊 Critérios de Aceitação
-- O sistema calcula corretamente a eficiência portuária pelos modelos CCR e BCC.  
-- O dashboard exibe o ranking de eficiência de forma clara e interativa.  
-- É possível comparar portos e identificar padrões de desempenho.  
+## 🛑 Sprint 3 – Paradas Operacionais e Gargalos
+
+📊 Dashboard:  
+![Paradas e Operações](imagens/dashboard_paradas_operacoes.png)
+
+Insights:
+
+- **41 complexos portuários analisados**
+- Chuva = maior causa de parada (**237 mil horas**)
+- Vila do Conde – Belém = alta demanda + paradas → gargalo crítico
+- Base para melhoria operacional e previsão de desempenho
 
 ---
 
-## 📈 Métricas de Validação
-- Portos avaliados: **10**  
-- Modelos aplicados: **2 (CCR e BCC)**  
-- Dashboards desenvolvidos: **2 principais painéis (eficiência e movimentação)**  
-- Validação realizada com base em dados reais da ANTAQ.  
+## 🗂️ User Stories
+
+| ID | Descrição | Status |
+|----|-----------|:-----:|
+| US4 | Calcular eficiência CCR | ✅ |
+| US5 | Calcular eficiência BCC | ✅ |
+| US6 | Ranking de eficiência | ✅ |
+| US7 | Visualizar portos eficientes em mapa | 🔄 Em desenvolvimento |
 
 ---
 
-## 🧭 Próximos Passos – Sprint 3
-- Incorporar causas e duração de paralisações operacionais.  
-- Adicionar histórico de eficiência (últimos 10 anos).  
-- Implementar previsões de desempenho com base em tendências.  
-- Melhorar interatividade dos dashboards (filtros dinâmicos e mapas).  
+## ✅ Critérios de Aceitação
+
+- Dashboards interativos e funcionais
+- Comparação de eficiência entre portos
+- Indicadores operacionais integrados
 
 ---
 
-## 👥 Equipe
-- **Ludmila Carmo** – Análise de dados e BI  
-- **Equipe Lean Flow** – Desenvolvimento e documentação do MVP  
+## 🔮 Próximos Passos
+
+- Histórico de eficiência (últimos 10 anos)
+- Modelos preditivos
+- Dashboard com mapa dinâmico
+- Expansão para outros tipos de carga
 
 ---
 
-## 📚 Fontes de Dados
-- **Agência Nacional de Transportes Aquaviários (ANTAQ)**  
-- **Modelos DEA:** Charnes, Cooper e Rhodes (1978); Banker, Charnes e Cooper (1984)  
-
----
 
 ## 🧠 Conclusão
-A **Sprint 2** consolidou a fase analítica do MVP, validando o uso dos modelos DEA para mensurar eficiência portuária e integrando as visualizações em dashboards.  
-Os resultados obtidos indicam que o uso de **Business Intelligence aplicado à logística portuária** é viável, escalável e traz valor direto à gestão dos portos brasileiros.
+
+A Sprint 2 concluiu a validação técnica do MVP com sucesso, provando que **BI + DEA** é uma ferramenta estratégica para decisões portuárias.
 
 ---
-
