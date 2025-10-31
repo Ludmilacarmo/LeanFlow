@@ -55,7 +55,7 @@ Desenvolver um sistema para **medir e visualizar eficiência portuária**, ident
 > Avalia produtividade sob retornos constantes de escala.
 
 📊 Gráfico DEA CCR:  
-![Eficiência CCR](imagens/dashboard_ccr.png)
+![Eficiência CCR](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/grafico%20ccr.jpeg)
 
 ---
 
