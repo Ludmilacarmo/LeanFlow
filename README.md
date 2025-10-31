@@ -42,7 +42,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------| 
 |Kick Off| 12/09/2025 | Concluído | | 
 |01| 02/10/2025 | Concluído|[MVP]() | 
-|02|  31/10/2025| Concluído |[MVP]() | (https://github.com/Ludmilacarmo/LeanFlow/blob/main/MVP/MVP%20Sprint2.md)
+|02|  31/10/2025| Concluído |[MVP](https://github.com/Ludmilacarmo/LeanFlow/blob/main/MVP/MVP%20Sprint2.md) | (https://github.com/Ludmilacarmo/LeanFlow/blob/main/MVP/MVP%20Sprint2.md)
 |03| 13/11/2025 | A Fazer |[MVP]() | 
 |Feira de Soluções|04/12/2025 | A Fazer |[MVP]() | 
 
