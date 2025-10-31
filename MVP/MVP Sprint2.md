@@ -70,7 +70,10 @@ Desenvolver um sistema para **medir e visualizar eficiência portuária**, ident
 ## ⚓ Movimentação de Soja e Estrutura Portuária
 
 📊 Dashboard:  
-![Dashboard Soja e Operações](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/WhatsApp%20Image%202025-10-30%20at%2021.05.48.jpeg)
+![Dashboard Soja e Operações](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/WhatsApp%20Image%202025-10-30%20at%2021.05.48.jpeg) 
+![Dashboard Soja e Operações](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/WhatsApp%20Image%202025-10-30%20at%2021.06.11.jpeg) 
+
+
 
 🔍 Destaques:
 
