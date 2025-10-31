@@ -46,7 +46,7 @@ Desenvolver um sistema para **medir e visualizar eficiência portuária**, ident
 > Permite análise sob retornos variáveis de escala.
 
 📊 Gráfico DEA BCC:  
-![Eficiência BCC](imagens/dashboard_bcc.png)
+![Eficiência BCC](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/Grafico%20bbc.jpeg)
 
 ---
 
