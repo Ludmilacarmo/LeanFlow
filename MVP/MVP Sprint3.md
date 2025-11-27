@@ -19,9 +19,7 @@ A sprint entregou uma visualização clara e objetiva sobre a distribuição das
 
 ## 📊 Dashboard – Ocorrências por Porto de Atracação
 
-**Arquivos incluídos no projeto:**
-
-- `dashboard_ocorrencias_porto.png`
+![Eficiência BCC](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/Grafico%20bbc.jpeg)
 - `dashboard_ocorrencias_porto_filtro1.png`
 - `dashboard_ocorrencias_porto_filtro2.png`
 
