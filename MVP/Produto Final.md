@@ -112,7 +112,7 @@ Avalia:
 
 # ⚓ Movimentação de Soja, Berços e Operações
 
-![Dashboard Soja e Operações](img_soja_operacoes.png)
+![Dashboard Soja e Operações](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/WhatsApp%20Image%202025-10-30%20at%2021.05.48.jpeg)
 
 ### 🔍 Destaques
 - **344 berços**  
