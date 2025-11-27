@@ -205,6 +205,231 @@ Sugere necessidade de reforço operacional em pontos críticos.
 | US10 | Filtros por porto e complexo | ✅ |
 
 ---
+# 📄 **RELATÓRIO TÉCNICO – Análise de Exportações de Soja e Ocorrências Portuárias (ANTAQ)**
+
+## ✔ **1. Objetivo Geral do Código**
+
+O código tem como objetivo:
+
+**➤ Identificar e analisar os principais portos e terminais responsáveis pela exportação de soja no Brasil**, utilizando os dados públicos da **ANTAQ**, e  
+**➤ Levantar e agrupar os motivos de paralisações (ocorrências)** relacionados às atracações desses mesmos portos.
+
+Em resumo:
+
+### 🔍 **O código descobre:**
+
+- Quais portos mais exportam soja no Brasil (top 10)
+- Quais são as atracações de soja nesses portos
+- Quais paralisações ocorreram nessas atracações
+- Quais são os principais motivos dessas paralisações
+- O número de ocorrências e as horas totais de paralisação
+
+---
+
+# ✔ **2. Etapas do Código**
+
+## **2.1. Montagem e Teste do Google Drive**
+
+O código:
+
+- Monta o Google Drive no Google Colab
+- Testa se há permissão de escrita
+- Define o caminho onde estão os dados da ANTAQ
+
+Isso garante que toda a análise funcione sem erros de permissão.
+
+---
+
+# ✔ **2.2. Leitura dos dados de Carga (2015–2025)**
+
+O código percorre as pastas:
+
+```
+/Dados API/ANTAQ/2015
+/Dados API/ANTAQ/2016
+...
+/Dados API/ANTAQ/2025
+```
+
+E para cada ano:
+
+- Abre o arquivo **Carga.txt**
+- Padroniza o código de mercadoria
+- Filtra apenas cargas **relacionadas à soja**
+
+### 💡 Mercadorias de soja filtradas:
+
+- 1201 → Soja em grão  
+- 2304 → Tortas de soja  
+- 1507 → Óleo de soja bruto  
+- 1516 / 1517 → Gorduras/óleos vegetais  
+
+Resultado:
+
+👉 **Um dataframe unificado com todas as cargas de soja exportadas entre 2015 e 2025.**
+
+---
+
+# ✔ **2.3. Leitura dos Dados de Atracação**
+
+A segunda parte do código:
+
+- Lê os arquivos **Atracacao.txt** de todos os anos
+- Junta tudo em um só dataframe
+- Mantém informações como:
+  - Porto de atracação  
+  - Tipo de navegação  
+  - Sentido (embarque/exportação)  
+  - Identificador da atracação (IDAtracacao)
+
+---
+
+# ✔ **2.4. Fusão dos Dados (Carga + Atracação)**
+
+A fusão é feita pela chave **IDAtracacao**, permitindo saber:
+
+- Qual carga estava associada a qual atracação
+- Qual porto movimentou a soja
+- Qual foi o volume exportado
+- Se foi navegação de longo curso (exportação internacional)
+
+Essa parte filtra:
+
+✔ Soja  
+✔ Sentido = “Embarcados” (exportação)  
+✔ Tipo Navegação = Longo Curso  
+
+---
+
+# ✔ **2.5. Identificação dos Top 10 Portos Exportadores de Soja**
+
+O código agrupa por:
+
+```
+Porto Atracação
+```
+
+E soma o peso da carga de soja.
+
+Resultado:
+
+👉 Lista de **Top 10 portos/terminais que mais exportaram soja** entre 2015 e 2025.
+
+---
+
+# ✔ **2.6. Leitura dos Dados de Paralisações**
+
+O código carrega os arquivos:
+
+```
+TemposAtracacaoParalisacao.txt
+```
+
+para cada ano, gerando:
+
+- Motivos das paralisações  
+- Duração de cada paralisação  
+- Vinculação via IDAtracacao  
+
+---
+
+# ✔ **2.7. Selecionando apenas Paralisações dos Top 10 Portos**
+
+Com base nos resultados anteriores:
+
+- Seleciona só atracações de soja nos top 10 portos  
+- Seleciona todas as paralisações relacionadas a essas atracações  
+
+Depois, junta novamente as informações de porto para completar os dados.
+
+---
+
+# ✔ **2.8. Análise dos Motivos das Paralisações**
+
+O código agrupa por:
+
+```
+Porto + Motivo da Paralisação
+```
+
+E calcula:
+
+- Quantidade de ocorrências  
+- Total de horas paradas  
+
+Depois filtra apenas **os 5 principais motivos** por porto.
+
+---
+
+# ✔ **2.9. Exportação Final**
+
+O relatório final é salvo em:
+
+```
+/content/paralisacoes_soja_top_portos_maiores.csv
+```
+
+Esse arquivo contém:
+
+- Porto  
+- Motivo  
+- Quantidade de ocorrências  
+- Total de horas paradas  
+
+---
+
+# 🎯 **3. Em Resumo – Para que serve o código?**
+
+### O código tem 3 funções principais:
+
+---
+
+## **1️⃣ Identificar os portos que mais exportam soja no Brasil**
+
+Com base nos dados da ANTAQ de 2015 a 2025.
+
+---
+
+## **2️⃣ Obter todas as ocorrências (paralisações) associadas a essas atracações**
+
+Relacionando:
+
+```
+Atracação → Carga → Porto → Paralisação
+```
+
+---
+
+## **3️⃣ Descobrir os principais motivos de paralisação por porto**
+
+Inclui:
+
+- ranking dos motivos  
+- horas totais paradas  
+- número de eventos  
+
+Permite identificar:
+
+### 🔥 **Gargalos logísticos na exportação de soja no Brasil**
+
+---
+
+# 🧠 **4. Aplicações Práticas**
+
+Este código permite:
+
+- análise logística de exportação  
+- auditoria de operações portuárias  
+- identificação de gargalos  
+- análise de eficiência  
+- estudos acadêmicos  
+- geração de dashboards  
+- preparação para modelos DEA  
+
+---
+
+
+---
 
 # 🧠 Conclusão Geral
 
