@@ -44,7 +44,7 @@ Sprint | Previsão | Status| Histórico|
 |01| 02/10/2025 | Concluído|[MVP]() | 
 |02|  31/10/2025| Concluído |[MVP](https://github.com/Ludmilacarmo/LeanFlow/blob/main/MVP/MVP%20Sprint2.md) | (https://github.com/Ludmilacarmo/LeanFlow/blob/main/MVP/MVP%20Sprint2.md)
 |03| 13/11/2025 | Concluído |[MVP](https://github.com/Ludmilacarmo/LeanFlow/blob/main/MVP/MVP%20Sprint3.md) | 
-|Feira de Soluções|04/12/2025 | A Fazer |[MVP]() | 
+|Feira de Soluções|04/12/2025 | A Fazer |[MVP](https://github.com/Ludmilacarmo/LeanFlow/blob/main/MVP/Produto%20Final.md) | 
 
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possível encontra as datas das atividades, o responsável por cada atividade, o estágio em que cada atividade se encontra e a qual Sprint cada atividade pertence.
