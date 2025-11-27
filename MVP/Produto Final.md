@@ -136,7 +136,7 @@ Avalia:
 ![Ocorrências 1](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/Ocorr%C3%AAncias%20por%20Porto%20de%20Atraca%C3%A7%C3%A3o.png)
 
 #### **Imagem 2 – Dashboard com filtro aplicado**
-![Ocorrências 2](dashboard_ocorrencias_2.png)
+![Ocorrências 2](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/sprint3.1%5D.png)
 
 #### **Imagem 3 – *Nova imagem atualizada***  
 
