@@ -85,7 +85,7 @@ Permite entender:
 
 - Portos eficientes mesmo com infraestrutura menor
 
-![Gráfico DEA BCC](img_dea_bcc.png)
+![Gráfico DEA BCC](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/Grafico%20bbc.jpeg)
 
 ---
 
