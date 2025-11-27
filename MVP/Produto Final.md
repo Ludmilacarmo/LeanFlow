@@ -98,7 +98,7 @@ Avalia:
 
 - Eficiência global do sistema
 
-![Gráfico DEA CCR](img_dea_ccr.png)
+![Gráfico DEA CCR](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/grafico%20ccr.jpeg)
 
 ---
 
