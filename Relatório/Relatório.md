@@ -102,26 +102,4 @@ Os membros do grupo devem descrever, com base nas análises realizadas na Sprint
 • Desenvolvimento de dashboards com múltiplos indicadores;  
 • Contribuições acadêmicas a partir da literatura estudada.
  
-## 8. Métodos e Referências Bibliográficas
- 
-Nesta seção, o grupo deve apresentar a fundamentação teórica dos métodos aplicados. O professor forneceu uma tabela como exemplo, que deve ser preenchida com os autores pesquisados.
- 
-Exemplo de tabela preenchida:
- 
-Autor(es) | Métodos de análise | Dados utilizados | Principais conclusões  
-Castillo-Manzano (2010) | Regressão linear e modelo PROBIT-LOGIT | 20383 observações | O tempo de espera no terminal antes do embarque tem um impacto significativo na disposição para consumo; gastos aumentam com o tempo de espera.  
-Fasone, Kofler e Scuderi (2016) | Econometria | 60 observações | O aumento no número de companhias de baixo custo impacta negativamente os gastos; maior número de passageiros causa congestionamento.  
-Yokomi, Wheat e Mizutani (2017) | Regressão logarítmica | 238 observações | Conclusões semelhantes sobre impacto das companhias de baixo custo; passageiros de baixo custo passam menos tempo no terminal.
- 
-## 9. Referências
- 
-Bezerra, G. C. L.; Gomes, C. F. The effects of service quality dimensions and passenger characteristics on passenger’s overall satisfaction with an airport. Journal of Air Transport Management, v. 44-45, p. 77-81, May-June, 2015. Disponível em: <http://dx.doi.org/10.1016/j.jairtraman.2015.03.001>. Acesso em: 18 jan. 2019.
- 
-Castillo-Manzano, J. I. Determinants of commercial revenues at airports: lessons learned from Spanish regional airports. Tourism Management, v. 31, n. 6, p. 788-796, 2010.
- 
-Chung, Y.S. Hedonic and utilitarian shopping values in airport shopping behavior. Journal of Air Transport Management 49, 28–34, 2015.
- 
-Del Chiappa, G.; Martin, J. C.; Roman, Concepcion. Service quality of airports’ food and beverage retailers: a fuzzy approach. Journal of Air Transport Management, v. 53, p. 105-113, 2016.
- 
-Secretaria de Aviação Civil. Research methodology for operational performance and passenger satisfaction. Disponível em: <https://centroestudos.aer...QUISA_ SATISFACAO/METODOLOGIA_2018_-_v.0.0.pdf/>, 2019.
- 
+
