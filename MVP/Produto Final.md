@@ -206,7 +206,7 @@ Sugere necessidade de reforço operacional em pontos críticos.
 
 ---
 # 📄 **RELATÓRIO TÉCNICO – Análise de Exportações de Soja e Ocorrências Portuárias (ANTAQ)**
-![Ocorrências 3]lINK PARA O CÓDIGO:(https://github.com/Ludmilacarmo/LeanFlow/tree/main/C%C3%93DIGO%20API)
+LINK PARA O CÓDIGO:(https://github.com/Ludmilacarmo/LeanFlow/blob/main/C%C3%93DIGO%20API/c%C3%B3digo%20API.ipynb)
 ## ✔ **1. Objetivo Geral do Código**
 
 O código tem como objetivo:
