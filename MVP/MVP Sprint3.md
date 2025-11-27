@@ -21,7 +21,7 @@ A sprint entregou uma visualização clara e objetiva sobre a distribuição das
 
 ![Ocorrências por Porto de Atracação](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/Ocorr%C3%AAncias%20por%20Porto%20de%20Atraca%C3%A7%C3%A3o.png)
 ![Ocorrências por Porto de Atracação](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/sprint3.1%5D.png)
-![Ocorrências por Porto de Atracação](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/Ocorr%C3%AAncias%20por%20Porto%20de%20Atraca%C3%A7%C3%A3o.png)
+![Ocorrências por Porto de Atracação](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/sprint3.2.png)
 
 Os painéis apresentam:
 
