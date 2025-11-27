@@ -138,7 +138,7 @@ Avalia:
 #### **Imagem 2 – Dashboard com filtro aplicado**
 ![Ocorrências 2](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/sprint3.1%5D.png)
 
-#### **Imagem 3 – *Nova imagem atualizada***  
+#### **Imagem 3 – *Filtro atualizado***  
 
 ![Ocorrências 3](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/sprint3.2.png)
 
@@ -414,7 +414,7 @@ Permite identificar:
 
 ---
 
-# 🧠 **4. Aplicações Práticas**
+#  **4. Aplicações Práticas**
 
 Este código permite:
 
