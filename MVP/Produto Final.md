@@ -140,7 +140,7 @@ Avalia:
 
 #### **Imagem 3 – *Nova imagem atualizada***  
 
-![Ocorrências 3](dashboard_ocorrencias_novo.png)
+![Ocorrências 3](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/sprint3.2.png)
 
 ---
 
