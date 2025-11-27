@@ -427,7 +427,8 @@ Este código permite:
 - preparação para modelos DEA  
 
 ---
-# Reltório das Sprints 
+
+# 📄 Reltório das Sprints 
 LINK PARA O RELATÓRIO:(https://github.com/Ludmilacarmo/LeanFlow/blob/main/Relat%C3%B3rio/Relat%C3%B3rio.md)
 
 ---
