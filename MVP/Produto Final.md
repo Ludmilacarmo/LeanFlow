@@ -427,9 +427,8 @@ Este código permite:
 - preparação para modelos DEA  
 
 ---
-# Reltório das Sprints
-LINK PARA O relatório:(LINK PARA O CÓDIGO:(https://github.com/Ludmilacarmo/LeanFlow/blob/main/C%C3%93DIGO%20API/c%C3%B3digo%20API.ipynb)
-## ✔ **1. Objetivo Geral do Código**)
+# Reltório das Sprints 
+LINK PARA O RELATÓRIO:(https://github.com/Ludmilacarmo/LeanFlow/blob/main/Relat%C3%B3rio/Relat%C3%B3rio.md)
 
 ---
 
