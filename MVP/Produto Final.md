@@ -206,7 +206,7 @@ Sugere necessidade de reforço operacional em pontos críticos.
 
 ---
 # 📄 **RELATÓRIO TÉCNICO – Análise de Exportações de Soja e Ocorrências Portuárias (ANTAQ)**
-
+![Ocorrências 3](![Ocorrências 3](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/sprint3.2.png))
 ## ✔ **1. Objetivo Geral do Código**
 
 O código tem como objetivo:
