@@ -10,9 +10,8 @@ A tela criada apresenta uma visão clara sobre **quais portos concentram mais oc
 
 ## 📊 Dashboard – Ocorrências por Porto de Atracação
 
-📁 Arquivo no projeto: **dashboard_ocorrencias_porto.png**
 
-![Ocorrências por Porto](imagens/dashboard_ocorrencias_porto.png)
+![Ocorrências por Porto](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Imagens/Ocorr%C3%AAncias%20por%20Porto%20de%20Atraca%C3%A7%C3%A3o.png)
 
 ### Este painel apresenta:
 
