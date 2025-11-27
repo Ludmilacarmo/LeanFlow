@@ -8,15 +8,15 @@
 A **Lean Flow** é uma plataforma de **Business Intelligence (BI)** desenvolvida para analisar, comparar e monitorar a eficiência portuária no Brasil.  
 O sistema utiliza:
 
--Dados públicos e oficiais da ANTAQ
+- Dados públicos e oficiais da ANTAQ
 
--Modelos matemáticos DEA (CCR e BCC)
+- Modelos matemáticos DEA (CCR e BCC)
 
--Dashboards interativos
+- Dashboards interativos
 
--Análises operacionais e monitoramento de gargalos
+- Análises operacionais e monitoramento de gargalos
 
--Indicadores de eficiência, movimentação e ocorrências
+- Indicadores de eficiência, movimentação e ocorrências
 
 Integra modelos DEA (CCR e BCC), dados públicos da ANTAQ e dashboards operacionais, incluindo análises de paradas e ocorrências por porto de atracação.
 
