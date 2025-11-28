@@ -118,7 +118,7 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Apresentação das Sprints
 #### Apresentação da Sprint 1 [(clique aqui)](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Apresenta%C3%A7%C3%B5es/API4-Sprint%201.pdf)
 #### Apresentação da Sprint 2 [(clique aqui)](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Apresenta%C3%A7%C3%B5es/API4.2.pdf)
-#### Apresentação da Sprint 3 [(clique aqui)]()
+#### Apresentação da Sprint 3 [(clique aqui)](https://github.com/Ludmilacarmo/LeanFlow/blob/main/Apresenta%C3%A7%C3%B5es/API4.3.pdf)
 
 
 # Competências desenvolvidas
